@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BERT.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "\"Peter gave Jim a ball. Jim gave it to Linda.\" \"Who gave a ball to Linda?\""
+    }
+  }
+}
